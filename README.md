@@ -1,4 +1,4 @@
-# Develop-A-Neural-Network-That-Can-Read-Handwriting-
+# Develop-A-Neural-Network-That-Can-Read-Handwritten Digit Classification-
 Devloped a neural network that can tell you from a blurred image of a digit exactly what digit it is
 ![bigstock-Confused-Young-Caucasian-Man-I-288416842-with-numbers](https://user-images.githubusercontent.com/86430978/134143799-353d71ec-fc9e-4146-9eaa-dcf867bd4287.jpg)
 
