@@ -15,3 +15,6 @@ Devloped a neural network that can tell you from a blurred image of a digit exac
 
 # 2nd Prediction
 ![Screenshot (67)](https://user-images.githubusercontent.com/86430978/134144175-4bc873e0-114f-4444-99e2-1e1b7397b02d.png)
+
+# Model accuracy
+![Screenshot (69)](https://user-images.githubusercontent.com/86430978/134144551-be931e8a-6f64-4681-b08e-7d82a890a612.png)
